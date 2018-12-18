@@ -1,0 +1,15 @@
+body {
+  background-color: lightblue;
+}
+
+.nav-container {
+  display: flex;
+  justify-content: space-around;
+  font-size: 25px;
+  background-color: lightsalmon;
+}
+
+.nav-BETSY {
+  font-size: 30px;
+  margin-top: 20px;
+}
