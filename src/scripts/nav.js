@@ -16,6 +16,7 @@ const nav = {
         content: navOption,
         cssClass: `nav-${navOption}`
       }))
+      
     })
   }
 }

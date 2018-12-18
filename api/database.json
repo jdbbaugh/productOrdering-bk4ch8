@@ -1,0 +1,30 @@
+{
+  "product": [
+    {
+    "title": "Gameboy",
+    "description": "Pocket sized console, big sized gaming! Whoa!",
+    "price": "$22,732.12",
+    "quantity": "12",
+    "image": "http://i1292.photobucket.com/albums/b576/andrewst244/DSC00889_zps996c24db.jpg",
+    "id": 1
+  }
+
+  ],
+  "review": [
+    {
+      "productId": "1",
+      "review": "Simply the best thing ever made by mankind",
+      "id": 1
+    },
+    {
+      "productId": "1",
+      "review": "Literally blew my mind with its radness!",
+      "id": 2
+    },
+    {
+      "productId": "1",
+      "review": "Using this was such a great joy that now all other things which life has to offer seem irrelevent!",
+      "id": 3
+    }
+  ]
+}

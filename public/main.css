@@ -13,3 +13,10 @@ body {
   font-size: 30px;
   margin-top: 20px;
 }
+
+.Gameboy-img {
+  height: 55%;
+  width: 55%;
+  border-radius: 25px;
+  margin: 15px;
+}
