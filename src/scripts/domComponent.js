@@ -1,4 +1,5 @@
 import nav from "./nav"
+import review from "./review"
 const domComponent = {
   createDomElement({ elementType, content = null, cssClass = "", attributes = {} }) {
     const element = document.createElement(elementType);
